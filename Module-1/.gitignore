@@ -1,0 +1,20 @@
+# Compiled Java files
+backend/target/
+backend/.mvn/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Node modules
+frontend/node_modules/
+frontend/build/
+.pnp.*
+
+# Log files
+*.log
+
+# System files
+.DS_Store
