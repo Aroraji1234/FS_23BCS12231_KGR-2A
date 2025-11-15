@@ -1,0 +1,17 @@
+.G1{
+    background-color: aqua;
+}
+.G2
+{
+    background-color: aqua;
+}
+.G3
+{
+    background-color: aqua;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    background-color: chartreuse;
+    padding: 10px;
+}
